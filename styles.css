@@ -1,0 +1,79 @@
+body {
+    background-color: #BDBFBF;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.igor {
+    text-align: center;
+    font-size: 40px;
+}
+
+.igor2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.igor3 {
+    display: block;
+    margin: 0 auto;
+}
+
+.igor4 {
+    text-align: center;
+    font-size: 40px;
+}
+
+igor5 {
+    display: block;
+    margin: 0 auto;
+}
+
+.igor6 {
+    font-size: 25px;
+}
+
+.igor7 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.igor8 {
+    height: 450px;
+    width: 700px;
+}
+
+.igor9 {
+    font-size: 25px;
+}
+
+.igor10 {
+    font-size: 25px;
+}
+
+html {
+    text-align: center;
+}
+
+p, div {
+    font-size: 25px;
+}
+
+h1, body {
+    font-size: 40px;
+}
+
+footer {
+    font-size: 25px;
+}
+.igor11{
+    text-align: center;
+    font-size: 40px;
+}
